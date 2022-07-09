@@ -86,21 +86,21 @@ h1 {
 }
 
 .profile-img {
-    width: 100px;
+    width: 150px;
     height:150px;
     border-radius: 50%;
 }
 
 @media(min-width: 440px) {
     .profile-img {
-        width: 150px;
+        width: 200px;
         height: 200px;
     }
 }
 
 @media(min-width: 935px) {
     .profile-img {
-        width: 200px;
+        width: 250px;
         height: 250px;
     }
 }
